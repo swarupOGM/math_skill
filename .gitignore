@@ -1,0 +1,6 @@
+# Ignore virtual environment folder
+venv/
+.idea/
+
+# Ignore database files
+*.db
